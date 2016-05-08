@@ -21,7 +21,8 @@ switch (dayOfTheWeek){
 		console.log('Finally, the weekend');
 		break;
 	case 'Sunday':
-		console.log('Ugh, the weekend is over');
+		//console.log('Ugh, the weekend is over');
+		console.log('Another week is about to start!'); //Edited by Natsuko
 		break;
 	default:
 		console.log('Invalid day - try again');
