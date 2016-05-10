@@ -9,7 +9,7 @@ switch (dayOfTheWeek){
 		console.log('The only day of the week dedicated to a number');
 		break;
 	case 'Wednesday':
-		console.log("They grow up so fast... Pretty soon she'll be Thrusday");
+		console.log("They grow up so fast... Pretty soon she'll be Thursday");
 		break;
 	case 'Thursday':
 		console.log("Friday's speed bump");
