@@ -6,7 +6,8 @@ switch (dayOfTheWeek){
 		console.log("It's just another manic Monday");
 		break;
 	case 'Tuesday':
-		console.log('The only day of the week dedicated to a number');
+		//console.log('The only day of the week dedicated to a number');
+		console.log('After Monday, even the calendars say WTF');
 		break;
 	case 'Wednesday':
 		console.log("They grow up so fast... Pretty soon she'll be Thursday");
